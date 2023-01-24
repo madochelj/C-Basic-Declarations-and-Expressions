@@ -1,3 +1,3 @@
-## C Basic Declarations and Expressoins Exercises
+# C Basic Declarations and Expressoins Exercises
 
-# Testing
+## Testing
